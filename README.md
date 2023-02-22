@@ -16,5 +16,5 @@ Add it in your root build.gradle at the end of repositories:
 **Step 2. Add the dependency**
 
 	dependencies {
-	        implementation 'com.github.gdhivagar:Device-Info-Sample-Library:Tag'
+	        implementation 'com.github.gdhivagar:Device-Info-Sample-Library:1.1.0'
 	}
